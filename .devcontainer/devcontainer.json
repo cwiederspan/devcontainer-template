@@ -39,6 +39,7 @@
 		"ms-azuretools.vscode-azureterraform",
 		"ms-kubernetes-tools.vscode-kubernetes-tools",
 		"mauve.terraform",
-		"visualstudioexptteam.vscodeintellicode"
+		"visualstudioexptteam.vscodeintellicode",
+		"davidanson.vscode-markdownlint"
 	]
 }
