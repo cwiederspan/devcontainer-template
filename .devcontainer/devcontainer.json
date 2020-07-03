@@ -43,7 +43,7 @@
 		"ms-azuretools.vscode-dapr",
 		"ms-azuretools.vscode-azureterraform",
 		"ms-kubernetes-tools.vscode-kubernetes-tools",
-		"mauve.terraform",
+		"hashicorp.terraform",
 		"visualstudioexptteam.vscodeintellicode",
 		"davidanson.vscode-markdownlint",
 		"ms-mssql.mssql"
