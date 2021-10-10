@@ -38,15 +38,20 @@
 	// Add the IDs of extensions you want installed when the container is created in the array below.
 	"extensions": [
 		"ms-dotnettools.csharp",
+		"ms-vscode.azure-account",
 		"ms-vscode.azurecli",
 		"ms-azuretools.vscode-docker",
-		"ms-azuretools.vscode-dapr",
 		"ms-azuretools.vscode-azureterraform",
+		"ms-azuretools.vscode-bicep",
+		"ms-azuretools.vscode-dapr",
 		"ms-azuretools.vscode-azurefunctions",
+		"ms-azuretools.vscode-azurestaticwebapps",
 		"ms-kubernetes-tools.vscode-kubernetes-tools",
 		"hashicorp.terraform",
 		"visualstudioexptteam.vscodeintellicode",
 		"davidanson.vscode-markdownlint",
-		"ms-mssql.mssql"
+		"ms-mssql.mssql",
+		"azurite.azurite",
+		"github.copilot"
 	]
 }
